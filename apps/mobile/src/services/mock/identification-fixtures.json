@@ -1,0 +1,18 @@
+{
+  "recipients": [
+    { "recipientRef": "recipient-member-a", "kind": "member", "fanId": "fan-a", "number": "700001", "qrPayload": "dc:1:member:member-a", "active": true },
+    { "recipientRef": "recipient-member-b", "kind": "member", "fanId": "fan-b", "number": "700002", "qrPayload": "dc:1:member:member-b", "active": true },
+    { "recipientRef": "recipient-guest-1", "kind": "guest", "number": "000123", "qrPayload": "dc:1:guest:guest-1", "active": true }
+  ],
+  "idols": [
+    { "id": "idol-a", "groupId": "group-a", "name": "朝比奈みお", "approved": true, "selectable": true },
+    { "id": "idol-a2", "groupId": "group-a", "name": "白瀬りん", "approved": true, "selectable": true },
+    { "id": "idol-a-pending", "groupId": "group-a", "name": "未承認アイドル", "approved": false, "selectable": false },
+    { "id": "idol-b", "groupId": "group-b", "name": "星宮ゆい", "approved": true, "selectable": true },
+    { "id": "idol-a3", "groupId": "group-a", "name": "花咲こはる", "approved": true, "selectable": true },
+    { "id": "idol-a4", "groupId": "group-a", "name": "水瀬しずく", "approved": true, "selectable": true },
+    { "id": "idol-a5", "groupId": "group-a", "name": "月野すみれ", "approved": true, "selectable": true },
+    { "id": "idol-b2", "groupId": "group-b", "name": "橘ひなた", "approved": true, "selectable": true },
+    { "id": "idol-b3", "groupId": "group-b", "name": "七瀬ことね", "approved": true, "selectable": true }
+  ]
+}
